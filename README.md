@@ -42,15 +42,15 @@ I am currently focused on frontend and mobile development with JavaScript, TypeS
 
 ## Featured projects
 
-### [Connectly](https://github.com/hamzest007/Connectly) · Private
+### [Connectly](https://github.com/hamzest007/Connectly) · Public
 
 React Native social platform with a TypeScript/Express backend and a dedicated admin center. The project covers authentication, posts, comments, reactions, saved content, users, friends, groups, notifications, moderation, verification, analytics, configuration, and audit logs.
 
-### [BookMint](https://github.com/hamzest007/BookMint) · Private
+### [BookMint](https://github.com/hamzest007/BookMint) · Public
 
 React Native book platform with browsing, search, trending and top-rated content, personal libraries, PDF reading, uploads, notifications, profile flows, document/image selection, and Socket.IO-powered product foundations.
 
-### [Empire Rise: Billionaire Simulator](https://github.com/hamzest007/RichLifeSimulator) · Private
+### [Empire Rise: Billionaire Simulator](https://github.com/hamzest007/RichLifeSimulator) · Public
 
 React Native single-player economy simulator focused on acquiring and upgrading businesses, trading fictional stocks and crypto, buying property, completing missions, unlocking achievements, and processing capped offline earnings.
 
@@ -66,7 +66,7 @@ React and Tailwind CSS e-commerce project with a public repository and product-f
 
 React task manager using Axios, React Router, Tailwind CSS, React Icons, and React Toastify for application flows and feedback.
 
-> Private repositories are listed for portfolio context, but their source is not publicly accessible.
+> Prifina remains private while its tracked environment configuration is reviewed.
 
 ## Connect
 
